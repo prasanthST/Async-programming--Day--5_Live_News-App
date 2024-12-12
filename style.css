@@ -1,0 +1,20 @@
+body{
+    font-family: "Roboto";
+    padding: 10px
+}
+.card{
+    height: 180px;
+    max-width: 618px !important ;
+    overflow: hidden;
+} 
+.img-fluid {
+    max-width: 100% !important;
+    height: 100%  !important;
+    object-fit: cover !important;
+}
+ .news-container{
+    margin: 10px;
+}
+.card-body{
+    padding: 7px;
+}

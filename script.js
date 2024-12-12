@@ -18,6 +18,9 @@ function fetchingDataFromApi() {
 }
 
 function displayNews(newsData) {
+     const heading = document.getElementById("title")
+     heading.innerHTML = "Today's Live News"
+
     const newsContainer = document.getElementById("news-container");
     newsContainer.innerHTML = '';
 

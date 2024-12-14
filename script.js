@@ -1,4 +1,4 @@
-const baseUrl = "http://api.mediastack.com/v1/news"
+const baseUrl = "https://api.mediastack.com/v1/news"
 const apikey ="cca6fa08a5e8eb1fb59f5d31e79f03eb" //prabhu
 
 function fetchingDataFromApi() {
